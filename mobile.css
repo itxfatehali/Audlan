@@ -1,0 +1,88 @@
+@media (max-width:600px) {
+    .nav-1{
+        font-size: 4vw;
+    }
+    .nav-2{
+        border-radius: 5px;
+    }
+    .nav-2 a{
+        display: none;
+    }
+    .nav-2 i{
+        font-size: 6vw;
+        pad: 3vw;
+    
+    }
+    .nav-1 img{
+        height: 60px;
+        width: 60px;
+    }
+   
+    .hero-content{
+        display: none;
+    }
+    .m-hero-con{
+ display: block;
+ width: 100%;
+ height: 50%;
+ font-family:arima;
+    }
+    .m-hero-con h1{
+        font-size: 15vw;
+        line-height: 1.3;
+        padding-bottom: 2vw;
+    }
+    .side-1{
+        display: none;
+    }
+    .page-1{
+        background-image: url(2.png);
+    }
+    .page-3{
+        margin-top: -100px;
+    }
+.what-list{
+    grid-gap: 10px;
+    padding: 2vw;
+    padding-left: 3vw;
+    text-align: center;
+}
+   .what h1{
+    font-size: 8vw;
+   }
+   .page-4{
+    margin-top: 150px;
+   }
+   .discover h2{
+    font-size: 5vw;
+   }
+   .discover p{
+    font-size: 3.5vw;
+   }
+
+
+.menu i{
+    font-size: 9vw;
+}
+.menu-content{
+    font-size: 4.5vw;
+}
+.mission{
+    flex-direction: column;
+    gap: 40px;
+}
+.mission-left{
+    width: 100%;
+}
+.mission-right{
+    width: 100%;
+}
+.his-content{
+    width: 90%;
+    height: 70%;
+    border-radius: 5px;
+}
+.page-6{
+    display: none;
+}
+}
